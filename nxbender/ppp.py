@@ -29,7 +29,6 @@ class PPPSession(object):
                 'noipdefault',
                 'noccp',    # server is buggy
                 'noauth',
-                'nomp',
                 'usepeerdns',
         ]
 
